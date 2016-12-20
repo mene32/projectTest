@@ -12,10 +12,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>JSP Page - nicola paggio</title>
     </head>
     <body>
-        <h1>Lista della spesa</h1>
+        <h1>Lista della spesa - nicola paggio</h1>
         <%
             if(lista.getLista().size() == 0) {
                 %>
